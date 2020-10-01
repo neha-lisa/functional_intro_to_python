@@ -222,7 +222,7 @@ His most recent online courses are:
 
 * [Article on how to deploy commandline tools and libraries to PyPi](https://www.ibm.com/developerworks/opensource/library/ba-github-analytics-2/index.html) 
 
-### Web Scraping in Python
+### Web Scraping in Python for python 3.x
 
 * [Programatically Scraping Wikipedia API in Python:  Pageviews and Articles](https://github.com/noahgift/socialpowernba/blob/master/socialpower/spwikipedia.py)
 
@@ -236,7 +236,7 @@ His most recent online courses are:
 
 ### Conceptual Machine Learning
 
-#### Linear Regression
+#### Linear Regression for machine learning
 
 * [Linear Regression in Jupyter Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_endorsement_revenue_nba.ipynb)
 
